@@ -1,0 +1,6 @@
+C:\Users\TwelveK\Desktop\Market Crawler\obj\Debug\SteamMarketCrawler.csprojResolveAssemblyReference.cache
+C:\Users\TwelveK\Desktop\Market Crawler\bin\Debug\SteamMarketCrawler.exe.config
+C:\Users\TwelveK\Desktop\Market Crawler\bin\Debug\SteamMarketCrawler.exe
+C:\Users\TwelveK\Desktop\Market Crawler\bin\Debug\SteamMarketCrawler.pdb
+C:\Users\TwelveK\Desktop\Market Crawler\obj\Debug\SteamMarketCrawler.exe
+C:\Users\TwelveK\Desktop\Market Crawler\obj\Debug\SteamMarketCrawler.pdb

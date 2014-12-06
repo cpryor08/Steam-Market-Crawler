@@ -1,0 +1,1 @@
+Edit the settings.ini file to fit your information, then run the SteamMarketCrawler.exe
